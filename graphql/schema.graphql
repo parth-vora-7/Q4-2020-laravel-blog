@@ -30,5 +30,6 @@ type User {
 type Post {
     id: ID!
     title: String!
-    body: String
+    slug: String!
+    body: String!
 }

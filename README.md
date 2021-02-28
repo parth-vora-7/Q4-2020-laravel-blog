@@ -1,3 +1,5 @@
+GraphQL Playground: http://127.0.0.1:8000/graphql-playground
+
 Base API URL: http://127.0.0.1:8000/graphql
 
 GraphQL queries:
